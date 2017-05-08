@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hahahahahahuhuhhu
-=======
-hallo
->>>>>>> refs/remotes/origin/master
+neu
